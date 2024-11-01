@@ -17,7 +17,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 	)
 )
 @SpringBootApplication 
-public class ProjetoNexusApplication {
+public class ProjetoNexusDevopsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoNexusApplication.class, args);
