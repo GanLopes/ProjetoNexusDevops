@@ -1,18 +1,11 @@
 <div align="center">
-    <h2>⚜️ N E X U S ⚜️</h2>
+    <h2>⚜️ N E X U S - DevOps ⚜️</h2>
 </div>
 
 <p align="center">
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-diagrama">Diagrama</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#%EF%B8%8F-spring-boot-admin">Spring Admin</a>
-</p>
-
-<p align="center"> 
-    <a href="https://youtu.be/e6-Bkei8G5M?si=_ofCC3A79gf6vVgP">Vídeo PITCH de apresentação do projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://youtu.be/Yy-ZdJacnWA">Vídeo de demonstração do projeto funcionando</a>
 </p>
 
 <h3>Integrantes</h3>
@@ -22,13 +15,6 @@
 - [Guilherme C. de Matos](https://github.com/guicarm) - RM 98874
 - [Gustavo G. da Silva](https://github.com/GuGodoi7) - RM 99585
 - [Erick K. da Silva](https://github.com/ErickKS) - RM 550371
-
-### Atribuições
-- Guilherme: Java e .NET
-- Amorgan: QA, SQL e .NET
-- Erick: Mobile e .NET
-- Gustavo: DevOps e .NET
-- Matheus: QA, Disruptive Technologies IOT e .NET
 
 --------------------------------------------------
 <h3>Como Rodar a Aplicação </h3>
@@ -42,7 +28,7 @@
 
 - Clonar o Repositório:
 ```bash
-git clone https://github.com/guicarm/ProjetoNexus
+git clone https://github.com/guicarm/ProjetoNexusDevops
 ```
 
 - Abra a pasta do projeto no seu terminal e digite:
@@ -50,7 +36,7 @@ git clone https://github.com/guicarm/ProjetoNexus
 code .
 ```
 
-- Agora com o Visual Studio aberto, rode a aplicação à partir do arquivo ```ProjetoNexusApplication.java```.
+- Agora com o Visual Studio aberto, rode a aplicação à partir do arquivo ```ProjetoNexusDevopsApplication.java```.
 --------------------------------------------------
 
 ## 📚 Projeto 
@@ -66,52 +52,10 @@ code .
 - [Docker](https://www.docker.com/)
 - [Figma](https://www.figma.com/file/d5rDjubNjdvIn1madq8DZd/Challenge?type=design&node-id=0%3A1&mode=design&t=9i6UZdLvgFCGnHWx-1)
 - [Insomnia](https://insomnia.rest/download)
-- [Mail Trap](https://mailtrap.io/pt/)
 
 <br/>
 
 ## 🧾 Funcionalidades
 
-- [x] Sistema de login/cadastro totalmente funcional (Autentificação com Token JWT).
-- [x] Lidar com o tipo de usuário (cliente/funcionário).
-- [x] CRUD de usuários.
-- [x] CRUD de produtos.
-- [x] CRUD de API's.
+- [x] CRUD de Produtos.
 - [x] CRUD de Empresas.
-- [x] CRUD de Chatbots.
-      
-<br/>
-
-## 📈 Diagrama
-
-<div>
-    <img src="./documents/Diagrama de Classes.png" alt="Diagrama de classes" height="400px"/>
-</div>
-
-<br/>
-
-## 🌐 [Arquivo JSON Insomnia](./documents/Insomnia_2024-09-15.json) 🌐
-
-<br/>
-
-## 📃 Documentação da API
-
-<h3> Endpoints de documentação </h3>
-
-- [Link para o Banco de dados H2](localhost:8080/db):
-```
-localhost:8080/db
-```
-
-- [Link para a documentação Swagger do projeto](localhost:8080/docs):
-```
-localhost:8080/docs
-```
-
-## 🛠️ Spring Boot Admin
-
-- [Link para o Spring Boot Admin](localhost:9090):
-```
-localhost:9090
-```
-
