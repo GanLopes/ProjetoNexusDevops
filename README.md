@@ -49,8 +49,6 @@ code .
 ## 🖥 Tecnologias
 
 - [Spring](https://spring.io)
-- [Docker](https://www.docker.com/)
-- [Figma](https://www.figma.com/file/d5rDjubNjdvIn1madq8DZd/Challenge?type=design&node-id=0%3A1&mode=design&t=9i6UZdLvgFCGnHWx-1)
 - [Insomnia](https://insomnia.rest/download)
 
 <br/>
