@@ -20,7 +20,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 public class ProjetoNexusDevopsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetoNexusApplication.class, args);
+		SpringApplication.run(ProjetoNexusDevopsApplication.class, args);
 	}
 
 }
