@@ -39,7 +39,7 @@
 ## 🧾 Funcionalidades
 
 - [x] CRUD de Produtos.
-- [x] CRUD de Produtos.
+- [x] CRUD de Empresas.
 
 <br/>
 
